@@ -11,3 +11,5 @@ Our goal is to develop a model for in-game win probability for American football
 * random forests.ipynb: random forest regression models
 * k nearest neighbors.ipynb: k nearest neighbor regression models
 * logistic with time dependent coefficients.ipynb: time-dependent logistic regression models
+
+Email bdong8@gmail.com with any questions

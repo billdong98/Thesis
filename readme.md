@@ -1,6 +1,6 @@
 # Predicting NFL In-Game Win Probabilities
 
-Our goal is to develop a model for in-game win probability for American football games. The code in this repository uses logistic regression, random forests, and $k$-nearest neighbor regression, taking into account factors such as current score, ball possession, field position, and the two teams' skill difference, to predict win probability. 
+Our goal is to develop a model for in-game win probability for American football games. The code in this repository uses logistic regression, random forests, and k-nearest neighbor regression, taking into account factors such as current score, ball possession, field position, and the two teams' skill difference, to predict win probability. 
 
 ## Description of most relevant files
 
